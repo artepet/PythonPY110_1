@@ -8,7 +8,7 @@ files:
     placeholder_text: '...  # TODO c помощью функции map привести каждый элемент списка
       к типу int'
     initial_state:
-      length: 75
+      length: 96
       offset: 223
     initialized_from_dependency: false
     selected: true
